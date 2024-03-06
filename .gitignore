@@ -1,0 +1,57 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+test/python/libiio
+.Xil
+
+projects/zcu104/bootfiles/*.bit
+projects/zcu104/bootfiles/*.BIN
+projects/zcu104/bootfiles/*.dtb
+projects/zcu104/bootfiles/copy_boot.sh
+
+.venv
+venv
+pyadi-iio
+
+system_top.hwdef
+
+test/cpp/log.txt
+test/rf-driver/srsRAN
+test/rf-driver/bin_test
+
+NA
+srsRAN
+app/bin_app
+
+_theme
+_build

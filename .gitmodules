@@ -1,0 +1,7 @@
+[submodule "projects/zcu104/hdl"]
+	path = projects/zcu104/hdl
+	url = https://github.com/aratanov/hdl_zcu104
+	branch = 2021_R2
+[submodule "app/srsRAN"]
+	path = app/srsRAN
+	url = https://github.com/srsran/srsRAN
