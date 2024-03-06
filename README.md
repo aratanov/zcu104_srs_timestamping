@@ -1,4 +1,4 @@
-# POrting Zynq timestamping solution from SRS to Xilinx/AMD zcu104 board
+# Porting Zynq timestamping solution from SRS to Xilinx/AMD zcu104 board
 
 # Requirements
 
